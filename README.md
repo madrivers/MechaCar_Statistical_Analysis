@@ -20,4 +20,4 @@ With this data we can address a few specific questions (Paraphrased Questions Be
 
 ## Summary Statistics on Suspension Coils
 
-![Suspension Summary](
+![Suspension Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Summary_Table.png)
