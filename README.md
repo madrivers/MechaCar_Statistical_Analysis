@@ -17,3 +17,7 @@ With this data we can address a few specific questions (Paraphrased Questions Be
 
  - Does the model predict MPG of MehcaCar Prototypes effectively?  Explain.
      + The R Squared Value indicates how well a given model can predict.  This model's R Squared value was .7149m meanning, roughly 71.5% of the future data points can be                predicted.  Whehter or not that is effective is a subjected answer.  For me, being able to hit a target 70+ percent of the time woudl be effective and would lead me to call        this model effective.
+
+## Summary Statistics on Suspension Coils
+
+![Suspension Summary](
