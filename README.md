@@ -20,4 +20,29 @@ With this data we can address a few specific questions (Paraphrased Questions Be
 
 ## Summary Statistics on Suspension Coils
 
+In this dataset we evaluated data on PSI for a various Lots of the manufacturing process.  The details were meant to determine if the key design specifications that relate to suspension coils were being met.  The spec outlines that suspension coils must not exceed an 100 pound per sqsuare inch (PSI) variance.
+
 ![Suspension Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Summary_Table.png)
+
+Based on the overall summary of the data, we are able to see that the variance overall is 62.3 PSI with a standard deviation of 7.9.  This would indicate that on the whole, the manufacturing process is delivering to the required design specification.
+
+![Suspension Lot Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Lot_Summary_Table.png)
+
+However, as we evaluate the individual lots we are able to see that Lots 1 and 2 are meeting the standard but Lot 3 is not.  
+Lot 1 and 2 have a variance of .98 and 7.5 PSI respectively with a low standard deviation.  With a variance of 220 PSI, Lot 3 is the sole contributor to manufacturing issues and drives the overall variance.
+
+## T-Test Summary
+
+T tests were conducted across all data points and then for each lot individually.  The end goal being to understand if the variances were stastically significant from the average of 1,500 PSI.
+
+Overall Data suggests that 
+![Suspension Lot Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_All.png)
+
+
+
+
+![Suspension Lot Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_1.png)
+![Suspension Lot Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_2.png)
+![Suspension Lot Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_3.png)
+
+
