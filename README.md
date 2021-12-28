@@ -35,14 +35,24 @@ Lot 1 and 2 have a variance of .98 and 7.5 PSI respectively with a low standard 
 
 T tests were conducted across all data points and then for each lot individually.  The end goal being to understand if the variances were stastically significant from the average of 1,500 PSI.
 
-Overall Data suggests that 
+Null Hypotheses:  There is no statistical variation from the various lots to the average of 1,500
+
+Overall Data suggests that p-value of .06028 the null hypothesis cannot be rejected as it is higher than the standard level of .05 to determine statistical signifiance.  This would indicate no statistical variation to the population.
+
 ![Suspension Lot Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_All.png)
 
 
-
+Lot 1 and Lot 2 each have a p-value of 1 and 0.61 respectively, indicating again, that the null hypothesis cannot be rejected.  
 
 ![Suspension Lot Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_1.png)
+
 ![Suspension Lot Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_2.png)
+
+Lot 3 however, has a p-value of .04 indicating that we can reject the Null Hypothesis and determine that there is a statistical variance from this lot to the average PSI of 1,500.
+
 ![Suspension Lot Summary](https://github.com/madrivers/MechaCar_Statistical_Analysis/blob/main/Resources/T_Test_3.png)
+
+
+## Study Design:  MechaCar vs. Competition
 
 
