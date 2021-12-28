@@ -55,4 +55,16 @@ Lot 3 however, has a p-value of .04 indicating that we can reject the Null Hypot
 
 ## Study Design:  MechaCar vs. Competition
 
+To evaluate MechaCar against the competition I would like to test 
+  - Cost of the Vehicle
+  - Maintenance Cost of the Vehicle 
+  - Fuel Efficiency
+
+I would need to collect relevant car data as outlined above by make and model from the competition for a timeframe of 5 years to ensure completeness.
+
+The Null Hypothesis:  MechaCar provides better value than the competition at its current price
+Althernative Hypothesis:  MechaCar does NOT provide better value than the competition at its currnet price
+
+I would perform a linear regression to understand if the price of the car could be used to predict the maintenance costs and or fuel efficiency of the vehicle.
+
 
